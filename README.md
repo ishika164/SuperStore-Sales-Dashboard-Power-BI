@@ -59,7 +59,6 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## 👩‍💻 Author
 
 **Ishika Chauhan**  
-B.Tech (AI & Data Science), Class of 2025  
 [LinkedIn Profile](https://www.linkedin.com/in/ishika-chauhan-059345281)
 
 ---
