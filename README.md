@@ -13,6 +13,12 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 ---
 
+## 🎗 Dashboard Screenshot
+
+
+![Super Store sales Dashboard_page-0001](https://github.com/user-attachments/assets/92daff70-ad31-4370-80d6-07378c89ed69)
+![Super Store sales Dashboard_page-0002](https://github.com/user-attachments/assets/df8e34eb-75a6-42c9-bdda-587005972670)
+
 ## 📚 Learning Outcomes
 
 - Incorporated **data analysis techniques**, specializing in **time series analysis**
