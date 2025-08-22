@@ -59,6 +59,15 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 ---
 
+## 🔑 How to Use
+1. Clone this repository  
+2. Open the .pbix file in Power BI Desktop
+3. Update the API key in Power Query with your OpenWeatherMap API key
+4. Refresh the dashboard to fetch live data
+
+
+---
+
 ## 👩‍💻 Author
 
 **Ishika Chauhan**  
